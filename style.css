@@ -4,3 +4,7 @@ body{
     color:beige;
     font-family: "Winky Sans" , system-ui;
 }
+header img{
+    width: 100px;;
+    height: 100px;
+}
